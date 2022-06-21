@@ -1,3 +1,3 @@
 # DQN-prosjekt
 
-Hello yes read me please
+Prosjekt fra faget IDATT2502 "Anvendt maskinlæring med prosjekt"
